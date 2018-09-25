@@ -1,4 +1,4 @@
-#First thing first you need to get familiar how network works, this book will help you a lot when it comes to networking.
+# First thing first you need to get familiar how network works, this book will help you a lot when it comes to networking.
 
   1st
   https://github.com/robertcanare/Study-File/blob/master/Cisco-ICND1-CCENT-CCNA-ICND1-100-105-Official-Cert-Guide-100-105.pdf
