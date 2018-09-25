@@ -1,7 +1,7 @@
 ## First thing first you need to get familiar how network works, this book will help you a lot when it comes to networking.
 
   **cisco entry level book**
-  https://github.com/robertcanare/Study-File/blob/master/Cisco-ICND1-CCENT-CCNA-ICND1-100-105-Official-Cert-Guide-100-105.pdf
+  - https://github.com/robertcanare/Study-File/blob/master/Cisco-ICND1-CCENT-CCNA-ICND1-100-105-Official-Cert-Guide-100-105.pdf
 
   **second part of the book**
   https://github.com/robertcanare/Study-File/blob/master/Cisco-ICND2-CCNA-Routing-and-Switching-200-105-Official-Cert-Guide-200-105.pdf
