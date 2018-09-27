@@ -45,7 +45,8 @@
   ## fourth things you need are scripting/programming language is a big thing.
   
   **python for ethical hacking**
-   - [ ]https://github.com/robertcanare/Study-File/blob/master/Learning%20Penetration%20Testing%20with%20Python.pdf
+   - [ ] https://github.com/robertcanare/Study-File/blob/master/Learning%20Penetration%20Testing%20with%20Python.pdf
   
-  
+  **python basic**
+  - [ ] https://github.com/robertcanare/Study-File/blob/master/python%20tutorial.pdf
 
